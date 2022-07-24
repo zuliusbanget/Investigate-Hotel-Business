@@ -1,4 +1,4 @@
-# Investigate-Hotel-Business
+# Investigate-Hotel-Business (EDA)
 
 Project ini terdiri dari beberapa tahapan Coding dan Analisa Informasi untuk dataset Hotel Business
 
